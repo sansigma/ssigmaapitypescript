@@ -1,5 +1,5 @@
-// package: ssigmaapi.vitess.v1
-// file: ssigmaapi/flnd/v1/vitess.proto
+// package: ssigmaapi.flnd.v1
+// file: ssigmaapi/flnd/v1/flnd.proto
 
 /* tslint:disable */
 
